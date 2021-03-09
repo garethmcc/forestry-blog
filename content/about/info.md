@@ -11,3 +11,4 @@ contact_info:
 type: ''
 
 ---
+Please feel free to get in touch with me anytime. I love talking about Serverless and will provide advice when I can to anyone that asks.
